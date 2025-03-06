@@ -7,5 +7,10 @@ class Calculator
         Console.WriteLine("Name: YourName, Roll Number: YourRollNumber");
     }
 }
+
 static int Divide(int a, int b)
 { return a / b; }
+
+static int Multiply(int a, int b)
+{ return a * b; }
+
